@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minesp3164&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minesp3164&layout=compact"/>
+</div>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minesp3164&layout=compact"/> 
 </div>
 
  ## Tech Stack
+
 **Language**
 <div align="left">
   <img src="https://img.icons8.com/color/48/python--v1.png"/>
