@@ -8,6 +8,7 @@
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhd000721"/>
   <img src="https://leetcard.jacoblin.cool/minesp3164?theme=nord&font=Noto%20Sans%20Georgian&height=200"/>
 </div>
+
  ## Tech Stack
 
 **Language**
