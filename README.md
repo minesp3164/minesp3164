@@ -39,6 +39,8 @@
   <img src="https://img.icons8.com/ios/48/notion.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-slack-replace-email-text-messaging-and-instant-messaging-for-your-team-logo-filled-tal-revivo.png"/>
 </div>
+
+ [저의 블로그입니다](https://minesp3164.vercel.app/)
 <!--
 **minesp3164/minesp3164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
