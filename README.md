@@ -9,49 +9,52 @@
   <img src="https://leetcard.jacoblin.cool/minesp3164?theme=nord&font=Noto%20Sans%20Georgian&height=200"/>
 </div>
 
- ## Tech Stack
+## Tech Stack
 
 **Language**
 <div align="left">
-  <img src="https://img.icons8.com/color/48/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5"/>
+  <img src="https://img.icons8.com/color/32/java-coffee-cup-logo--v1.png"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/>
 </div>
 
 **Framework**
 <div align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png"/>
-  <img src="https://img.icons8.com/nolan/48/flask.png"/>
-  <img src="https://img.icons8.com/officel/48/react.png"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/flask"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/django"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/TailwindCss"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs"/>
 </div>
 
 **DB**
 <div align="left">
-  <img src="https://img.icons8.com/color/48/mongo-db.png"/>
-  <img src="https://img.icons8.com/color/48/maria-db.png"/>
-  <img src="https://img.icons8.com/ios/50/sqlite.png"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mongoDB"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite"/>
 </div>
 
 **Communication**
 <div align="left">
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
-  <img src="https://img.icons8.com/ios/48/notion.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-slack-replace-email-text-messaging-and-instant-messaging-for-your-team-logo-filled-tal-revivo.png"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/figma"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/notion"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/slack"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jira"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/swagger"/>
 </div>
 
- [저의 블로그입니다](https://minesp3164.vercel.app/)
-<!--
-**minesp3164/minesp3164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Development Assistant**
+<div>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/amazons3"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/vercel"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Site
+
+[Blog](https://minesp3164.vercel.app/) |
+
