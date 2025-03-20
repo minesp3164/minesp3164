@@ -56,5 +56,5 @@
 
 ## Site
 
-[Blog](https://minesp3164.vercel.app/) |[portfolio](https://general-vanadium-3af.notion.site/17070b22aefb80fdb7c1e69fd541db88?pvs=4)
+[Blog](https://minesp3164.vercel.app/) |[PortFolio](https://general-vanadium-3af.notion.site/17070b22aefb80fdb7c1e69fd541db88?pvs=4)
 
