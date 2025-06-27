@@ -51,6 +51,7 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/amazons3"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/vercel"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/supabase"/>
 </div>
 
 
