@@ -41,15 +41,12 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/github"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/figma"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/notion"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/slack"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/jira"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/swagger"/>
 </div>
 
 **Development Assistant**
 <div>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/amazons3"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/vercel"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/supabase"/>
 </div>
