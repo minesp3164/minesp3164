@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minesp3164&theme=tokyonight" height="150px"/>
-</div>
-
-<div align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhd000721"/>
   <img src="https://leetcard.jacoblin.cool/minesp3164?theme=nord&font=Noto%20Sans%20Georgian&height=200"/>
 </div>
 
